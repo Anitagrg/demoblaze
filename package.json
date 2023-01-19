@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Anitagrg/demoblaze#readme",
   "dependencies": {
     "cypress": "^12.3.0"
-  }
+  },
+  "devDependencies": {}
 }
