@@ -4,7 +4,7 @@
   "description": "A cypress test project for demoblaze.com",
   "main": "index.js",
   "scripts": {
-    "ff" : "npx cypress open --e2e --browser chrome"
+    "ff": "npx cypress open --e2e --browser chrome"
   },
   "repository": {
     "type": "git",
